@@ -1,0 +1,9 @@
+{
+	"name": "kpgADF",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f9b98e7f-d1fd-426c-986c-d67fcad56e81",
+		"tenantId": "5474db33-0ecb-4035-ae7b-5de3c40408f2"
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"name": "LookupTableAssgn3",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSqlSampleDBLS",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
